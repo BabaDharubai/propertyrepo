@@ -1,0 +1,2 @@
+# propertyrepo
+All project configurations
